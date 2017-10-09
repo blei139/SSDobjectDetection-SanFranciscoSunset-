@@ -1,0 +1,20 @@
+node {
+  name: "global_step/Initializer/zeros"
+  op
+    key: "_output_shapes"
+    value {
+      list {
+        shape {
+          dim {
+            size: -1
+          }
+          dim {
+            size: 4
+          }
+        }
+        shape {
+        }
+      }
+    }
+  }
+}
