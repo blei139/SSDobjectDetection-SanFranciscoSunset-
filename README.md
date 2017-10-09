@@ -14,3 +14,7 @@ Instruction on how to run the ipython script:
 4) Double click on this file to run the SSD objection detection and openCV traffic light color classification.
 5) Once this file is opened up in your browser, double click on the run button will produce the output videoes where the output videos
    are located in the test_videos directory.
+
+Tutorial in the object_detection directory:
+1) Read the README file in the object_detection directory
+2) Run the object_detection_tutorial.ipynb script in jupyter notebook in Anaconda for more understanding of SSD detection.
