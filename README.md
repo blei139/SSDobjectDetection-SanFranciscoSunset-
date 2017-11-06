@@ -19,5 +19,7 @@ Tutorial in the object_detection directory:
 1) Read the README file in the object_detection directory
 2) Run the object_detection_tutorial.ipynb script in jupyter notebook in Anaconda for more understanding of SSD detection.
 
-My youtube link:
+My youtube links:
+
 https://youtu.be/L5ejQEwkl1Y
+https://youtu.be/qYWiwchdJQ0
