@@ -22,4 +22,5 @@ Tutorial in the object_detection directory:
 My youtube links:
 
 https://youtu.be/L5ejQEwkl1Y
+
 https://youtu.be/qYWiwchdJQ0
