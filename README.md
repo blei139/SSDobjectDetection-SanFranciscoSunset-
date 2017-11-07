@@ -1,5 +1,5 @@
 # SSDobjectDetection-SanFranciscoSunset-
-This repository is a SSD object detection project, using the dash camera videoes taken from streets of the Sunset District in 
+This repository is a SSD object detection project, using the dash camera videos taken from streets of the Sunset District in 
 San Francisco.  The object detection algorithm is SSD.  The SSD model is 'ssd_mobilnet_v1_coco'.  The object detection graph is 
 'frozen_inference_graph.pb', which has weights baked into the graph as constants and used by tensorflow for object detection.
 The ipython script, is SSDobjectDetectionVideoProc.ipynb.  This script detects objects such stop signs, persons, cars, trucks, and traffic
