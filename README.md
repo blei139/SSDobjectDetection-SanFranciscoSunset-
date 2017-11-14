@@ -18,6 +18,7 @@ Instruction on how to run the ipython script:
 Tutorial in the object_detection directory:
 1) Read the README file in the object_detection directory
 2) Run the object_detection_tutorial.ipynb script in jupyter notebook in Anaconda for more understanding of SSD detection.
+   If you want to run object_detection_tutorial.ipynb script, please send me an email for the videos input files and put them into the test_videos directory.  My email address is blei139@gmail.com, or use your own videos to run this ipynb script.
 
 My youtube links:
 
